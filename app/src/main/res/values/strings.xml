@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">定制播放器</string>
+    <string name="app_name">RuruSaika的播放器</string>
     
     <!-- 登录注册页面 -->
     <string name="login_title">账号登录</string>
